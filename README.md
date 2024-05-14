@@ -2,7 +2,7 @@
 
 This Solidity smart contract creates a custom ERC20 token called MyToken. The contract owner has the ability to mint tokens to any provided address, while any user can burn and transfer tokens.
 
-## Prerequisites
+## Pre-requisites
 
 - [Node.js](https://nodejs.org/) installed
 - [Truffle](https://www.trufflesuite.com/truffle) installed
